@@ -1,4 +1,6 @@
-# report <img src='man/figures/logo.png' align="right" height="139" />
+<div>
+<img src='man/figures/logo.png' align="right" height="139" />
+</div>
 
 # Проект: Отслеживание и сортировка мусора на конвейере
 
