@@ -5,7 +5,7 @@
 
 <h2 style="font-size: 20px;">Разработчики</h2>
 
-* [Фёдор Сафонов](https://) - Teamlead команды 
+* [Фёдор Сафонов](https://) - Team lead команды 
 * [Илья Гурин](https://github.com/IlyaLion) - 
 * [Дмитрий Ерыганов](https://github.com/Dnevvs) - 
 * [Дина Гребенкина](https://github.com/DinaGreb) -
