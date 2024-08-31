@@ -4,6 +4,7 @@
 * [Ссылка на веб приложение](https://)
 
 <h2 style="font-size: 20px;">Разработчики</h2>
+
 * [Фёдор Сафонов](https://) - Teamlead команды 
 * [Илья Гурин](https://github.com/IlyaLion) - 
 * [Дмитрий Ерыганов](https://github.com/Dnevvs) - 
