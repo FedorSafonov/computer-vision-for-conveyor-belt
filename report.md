@@ -1,7 +1,6 @@
 <div>
-<img src='https://my.onlinechiro.com/0023379/storage/app/media/512x512bb.png' align="right" height="139" />
+<img src='https://github.com/FedorSafonov/computer-vision-for-conveyor-belt/blob/main/report_images/report.png' align="right" height="139" />
 </div>
-
 
 # Проект: Детекция и трекинг мусора на ленте конвейера.
 
