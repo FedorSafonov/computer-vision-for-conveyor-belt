@@ -28,7 +28,7 @@
 
 * **Таблицы с результатами:**
 
-| Модель+Tracking                      | Accuracy | MOT     | MOTA     |Time local|Time Kaggle|Time Googel Colab|
+| Модель+Tracking                      | Accuracy | MOT  | MOTA |Time local|Time Kaggle|Time     Google Colab|
 |-----------------------------|------------|-----------|-----------|-------------|-----|------|
 | базовая  | 0.9682     | 0.9039    | 0.9167    | 0.9482      |
 | YOLO обученная заказчиком | 0.9242     | 0.8572    | 0.8657    | 0.9639     |
