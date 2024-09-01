@@ -11,7 +11,7 @@
 * **Датасет:** Предобученная модель детекции пластиковых бутылок и код для ее запуска. Датасет (изображения + разметка) в нескольких форматах: MOT, COCO, CVAT. Примеры видеозаписей работы конвейера.
 
 <div>
-<img src='https://github.com/FedorSafonov/computer-vision-for-conveyor-belt/blob/main/%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D0%B9%D0%B5%D1%80.png'/>
+<img src='https://github.com/FedorSafonov/computer-vision-for-conveyor-belt/blob/main/report_images/%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D0%B9%D0%B5%D1%80.png'/>
 </div>
  
 ## Методы
