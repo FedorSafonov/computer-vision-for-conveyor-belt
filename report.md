@@ -79,4 +79,8 @@
      
 ## Ссылки
 [**Дукументация YOLO**](https://docs.ultralytics.com)
+<div>
+<img src='https://lipfarm.ru/upload/iblock/370/3zapmnl9nk76cg49m40tiih6euzbamsk.jpg' align="right" height="139" />
+</div>
+
 [**Лицензия**](https://github.com/FedorSafonov/computer-vision-for-conveyor-belt/blob/main/report.md)
