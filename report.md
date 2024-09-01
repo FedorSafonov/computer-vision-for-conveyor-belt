@@ -78,4 +78,5 @@
    * **Использование других моделей:**  Можно попробовать использовать другие модели,  такие как ....
      
 ## Ссылки
-https://docs.ultralytics.com
+(**Дукументация YOLO**)[https://docs.ultralytics.com]
+(**Лицензия**)[https://github.com/FedorSafonov/computer-vision-for-conveyor-belt/blob/main/report.md]
