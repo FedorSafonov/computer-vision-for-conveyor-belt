@@ -94,7 +94,7 @@
 ## Ссылки
 [**Дукументация YOLO**](https://docs.ultralytics.com)
 <div>
-<img src='https://lipfarm.ru/upload/iblock/370/3zapmnl9nk76cg49m40tiih6euzbamsk.jpg' align="right" height="139" />
+<img src='https://github.com/FedorSafonov/computer-vision-for-conveyor-belt/blob/main/report_images/%D1%88%D1%82%D0%B0%D0%BC%D0%BF.jpg' align="right" height="139" />
 </div>
 
 [**Лицензия**](https://github.com/FedorSafonov/computer-vision-for-conveyor-belt/blob/main/LICENSE)
