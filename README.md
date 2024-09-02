@@ -32,7 +32,7 @@
  </br>python track.py --config_filename config.yaml
 
 </br>**Пример файла конфигурации `config.yaml`:**
-paths:
+ </br>paths:
  </br>root: Хакатон-Сортировка ТБО
  </br>yolo_model: Models/ultralytics/yolov10x_v2_4_best.pt
  </br>input_video: Videos/input.mp4
@@ -43,7 +43,7 @@ paths:
  </br>save_annotations: True
 
 </br>**Параметры конфигурации:**
-paths.root - корневая директория для всех путей.
+</br>paths.root - корневая директория для всех путей.
 </br>paths.yolo
 </br>_
 </br>model - путь к модели YOLO.
