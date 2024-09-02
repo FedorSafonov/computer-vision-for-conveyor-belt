@@ -7,15 +7,6 @@
 * Полный отчёт по проекту можно посмотреть в [report.md](https://https://github.com/FedorSafonov/computer-vision-for-conveyor-belt/blob/report.md/report.md)
 * [Ссылка на презентацию](https://https://ithub.com/FedorSafonov/computer-vision-for-conveyor-belt/tree/presentation)
 
-<h2 style="font-size: 20px;">Разработчики</h2>
-
-* [Фёдор Сафонов](https://) - Team lead команды 
-* [Илья Гурин](https://github.com/IlyaLion) - 
-* [Дмитрий Ерыганов](https://github.com/Dnevvs) - 
-* [Дина Гребенкина](https://github.com/DinaGreb) -
-* [Алексей Исаков](https://github.com/IT-DS-Alex) - 
-* [Богданович Екатерина](https://github.com/Kate_B_DS) -
-
 
 <h2 style="font-size: 20px;">Описание</h2>
 В данном проекте команда дата-саентистов выполняет заказ для российской IT-компания "Renue" по разработке решения для отслеживания и последующей сортировки пластикового мусора на конвейерной ленте.
@@ -32,15 +23,23 @@
 </br>Даны также образцы видеозаписи работы конвейера.
 
 <h2 style="font-size: 20px;">Результаты</h2>
-В результате работы построена кастомная модель, которая выполняет свою работу с точностью (тут поставить метрику).
+В результате работы построена кастомная модель, которая выполняет свою работу с точностью MOTA(тут поставить метрику) и скоростью
 </br>Проведена исcледовательская работа и с другими моделями компьютерного зрения.
 
+<h2 style="font-size: 20px;">Разработчики</h2>
 
-## Используемые библиотеки
+* [Фёдор Сафонов](https://) - Teamlead команды 
+* [Илья Гурин](https://github.com/IlyaLion) 
+* [Дмитрий Ерыганов](https://github.com/Dnevvs)  
+* [Дина Гребенкина](https://github.com/DinaGreb) 
+* [Алексей Исаков](https://github.com/IT-DS-Alex) 
+* [Екатерина Богданович](https://github.com/Kate_B_DS) 
+
+## Стек технологий
 + *OpenCV*
 + *Ultralytics*
-+ *pandas*
 + *YOLOv10*
++ *pandas*
 + *PyTorch*
 + *matplotlib*
 + *numpy*
