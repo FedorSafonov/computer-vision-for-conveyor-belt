@@ -28,20 +28,22 @@
 
 <h2 style="font-size: 20px;">Инструкция по использованию модели</h2>
 
-*Для запуска трекинга используйте следующую bash-команду:*
-</br>python track.py --config_filename config.yaml
+**Для запуска трекинга используйте следующую bash-команду:**
+ </br>python track.py --config_filename config.yaml
 
-</br>*Пример файла конфигурации `config.yaml`*
+</br>**Пример файла конфигурации `config.yaml`**
 paths:
  root: Хакатон-Сортировка ТБО
- <li>Blue yolo_model:</li>yolo_model: Models/ultralytics/yolov10x_v2_4_best.pt
+ yolo_model:</li>yolo_model: Models/ultralytics/yolov10x_v2_4_best.pt
  input_video: Videos/input.mp4
  output_video: Videos/output.mp4
  output_annotations: Datasets/annotations.json
-tracker: bytetrack
-save_video: False
-save_annotations: True
-Параметры конфигурации
+ tracker: bytetrack
+ save_video: False
+ save_annotations: True
+
+</br>**Параметры конфигурации**
+
 paths.root - корневая директория для всех путей.
 paths.yolo
 _
@@ -62,14 +64,6 @@ video - флаг для сохранения выходного видео (`Tru
 save
 _
 annotations - флаг для сохранения аннотаций (`True` или `False`).
-Примечания
-Убедитесь, что все пути в файле конфигурации `config.yaml` корректны и
-соответствуют вашему окружению.
-Вы можете изменить параметры трекинга и пути к файлам, отредактировав файл
-` fi l`
-b
-
-
 
 <h2 style="font-size: 20px;">Разработчики</h2>
 
