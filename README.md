@@ -34,7 +34,7 @@
 </br>**Пример файла конфигурации `config.yaml`**
 </br>paths:
  </br>root: Хакатон-Сортировка ТБО
- </br><li>Blue</li>yolo_model: Models/ultralytics/yolov10x_v2_4_best.pt
+ </br> <li>Blue</li>:yolo_model: Models/ultralytics/yolov10x_v2_4_best.pt
  input_video: Videos/input.mp4
  output_video: Videos/output.mp4
  output_annotations: Datasets/annotations.json
