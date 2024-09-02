@@ -26,7 +26,7 @@
 <h2 style="font-size: 20px;">Инструкция по использованию модели</h2>
 
 **Для запуска трекинга используйте следующую bash-команду:**
-```
+```python
 python track.py --config_filename config.yaml
 ```
 
@@ -45,33 +45,34 @@ save_annotations: True
 
 </br>**Параметры конфигурации:**
 ```
-</br>paths.root - корневая директория для всех путей.
-</br>paths.yolo
-</br>_
-</br>model - путь к модели YOLO.
-</br>paths.input
-</br>_
-</br>video - путь к входному видеофайлу.
-</br>paths.output
-</br>_
-</br>video - путь для сохранения выходного видео.
-</br>paths.output
-</br>_
-</br>annotations - путь для сохранения аннотаций.
-</br>tracker - тип используемого трекера (поддерживаются `botsort` и `bytetrack`).
-</br>save
-</br>_
-</br>video - флаг для сохранения выходного видео (`True` или `False`).
-</br>save
-</br>_
-</br>annotations - флаг для сохранения аннотаций (`True` или `False`).
+paths.root - корневая директория для всех путей.
+paths.yolo
+_
+model - путь к модели YOLO.
+paths.input
+video - путь к входному видеофайлу.
+paths.output
+_
+video - путь для сохранения выходного видео.
+paths.output
+_
+annotations - путь для сохранения аннотаций.
+tracker - тип используемого трекера (поддерживаются `botsort` и `bytetrack`).
+save
+_
+video - флаг для сохранения выходного видео (`True` или `False`).
+save
+_
+annotations - флаг для сохранения аннотаций (`True` или `False`).
 ```
 
 
-<h2 style="font-size: 20px;">Структура репозитория</h2>
-<br> main - главная страница.
-<br> code - содержит основной код для запуска и инференса модели.
-<br> presentation - cодержит презентацию проекта в формате .pptx.
+<h2 style="font-size: 20px;">Структура репозитория:</h2>
+
+```
+**code** - содержит основной код для запуска и инференса модели.
+**presentation** - cодержит презентацию проекта в формате .pptx.
+```
 
 <h2 style="font-size: 20px;">Разработчики</h2>
 
