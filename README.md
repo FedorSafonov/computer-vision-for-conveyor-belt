@@ -2,15 +2,8 @@
 
 ![click here](demo.gif)
 
-
-
 * [Ссылка на отчет](https://github.com/FedorSafonov/computer-vision-for-conveyor-belt/blob/report.md/report.md)
 * [Ссылка на презентацию](https://github.com/FedorSafonov/computer-vision-for-conveyor-belt/tree/presentation)
-* 
-<h2 style="font-size: 20px;">Структура репозитория</h2>
-<br> `main` - главная страница.
-<br> `code` - содержит основной код для запуска и инференса модели.
-<br> `presentation` - Содержит презентацию проекта в формате .pptx.
 
 <h2 style="font-size: 20px;">Описание</h2>
 В данном проекте команда дата-саентистов выполняет заказ для российской IT-компания "Renue" по разработке решения для отслеживания и последующей сортировки пластикового мусора на конвейерной ленте.
@@ -67,6 +60,12 @@
 </br>save
 </br>_
 </br>annotations - флаг для сохранения аннотаций (`True` или `False`).
+
+
+<h2 style="font-size: 20px;">Структура репозитория</h2>
+<br> main - главная страница.
+<br> code - содержит основной код для запуска и инференса модели.
+<br> presentation - Содержит презентацию проекта в формате .pptx.
 
 <h2 style="font-size: 20px;">Разработчики</h2>
 
