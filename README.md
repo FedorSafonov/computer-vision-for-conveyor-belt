@@ -26,9 +26,12 @@
 <h2 style="font-size: 20px;">Инструкция по использованию модели</h2>
 
 **Для запуска трекинга используйте следующую bash-команду:**
+```
  </br>python track.py --config_filename config.yaml
+```
 
 </br>**Пример файла конфигурации `config.yaml`:**
+```
  </br>paths:
  </br>root: Хакатон-Сортировка ТБО
  </br>yolo_model: Models/ultralytics/yolov10x_v2_4_best.pt
@@ -38,8 +41,10 @@
  </br>tracker: bytetrack
  </br>save_video: False
  </br>save_annotations: True
+```
 
 </br>**Параметры конфигурации:**
+```
 </br>paths.root - корневая директория для всех путей.
 </br>paths.yolo
 </br>_
@@ -60,6 +65,7 @@
 </br>save
 </br>_
 </br>annotations - флаг для сохранения аннотаций (`True` или `False`).
+```
 
 
 <h2 style="font-size: 20px;">Структура репозитория</h2>
