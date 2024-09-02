@@ -1,0 +1,11 @@
+paths:
+  #родительский пуль для всех остальных путей
+  root: Хакатон-Сортировка ТБО
+  yolo_model: Models/ultralytics/yolov10x_v2_4_best.pt
+  input_video: Videos/input.mp4
+  output_video: Videos/output.mp4
+  output_annotations: Datasets/annotations.json
+#поддерживаются botsort и bytetrack
+tracker: bytetrack
+save_video: False
+save_annotations: True
