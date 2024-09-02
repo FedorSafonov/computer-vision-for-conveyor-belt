@@ -8,7 +8,7 @@
 * [Ссылка на презентацию](https://github.com/FedorSafonov/computer-vision-for-conveyor-belt/tree/presentation)
 * 
 <h2 style="font-size: 20px;">Структура репозитория</h2>
-<br> `main` - главная страница.
+<br> main - главная страница.
 <br> `code` - содержит основной код для запуска и инференса модели.
 <br> `presentation` - Содержит презентацию проекта в формате .pptx.
 
