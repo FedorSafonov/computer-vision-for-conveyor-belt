@@ -2,8 +2,7 @@
 
 ![click here](demo.gif)
 
-* [Ссылка на отчет](https://github.com/FedorSafonov/computer-vision-for-conveyor-belt/blob/report.md/report.md)
-* [Ссылка на презентацию](https://github.com/FedorSafonov/computer-vision-for-conveyor-belt/tree/presentation)
+* [Отчёт по проделанной работе](https://github.com/FedorSafonov/computer-vision-for-conveyor-belt/blob/main/report.md)
 
 <h2 style="font-size: 20px;">Описание</h2>
 В данном проекте команда дата-саентистов выполняет заказ для российской IT-компания "Renue" по разработке решения для отслеживания и последующей сортировки пластикового мусора на конвейерной ленте.
