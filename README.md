@@ -70,8 +70,15 @@ annotations - флаг для сохранения аннотаций (`True` и
 <h2 style="font-size: 20px;">Структура репозитория:</h2>
 
 ```
-**code** - содержит основной код для запуска и инференса модели.
-**presentation** - cодержит презентацию проекта в формате .pptx.
+- code - содержит основной код для запуска и инференса модели.
+  -- annotation_utils.py
+  -- config.py
+  -- config.yaml
+  -- track.py
+  -- video_utils.py
+- presentation - cодержит презентацию проекта в формате .pptx.
+- report.md - отчёт о проделанной работе
+- requirements.txt - необходимые модули
 ```
 
 <h2 style="font-size: 20px;">Разработчики</h2>
