@@ -34,36 +34,36 @@
 </br>**Пример файла конфигурации `config.yaml`**
 </br>paths:
  </br>root: Хакатон-Сортировка ТБО
- </br> <li>Blue</li>:yolo_model: Models/ultralytics/yolov10x_v2_4_best.pt
- input_video: Videos/input.mp4
- output_video: Videos/output.mp4
- output_annotations: Datasets/annotations.json
- tracker: bytetrack
- save_video: False
- save_annotations: True
+ </br>yolo_model: Models/ultralytics/yolov10x_v2_4_best.pt
+ </br>input_video: Videos/input.mp4
+ </br>output_video: Videos/output.mp4
+ </br>output_annotations: Datasets/annotations.json
+ </br>tracker: bytetrack
+ </br>save_video: False
+ </br>save_annotations: True
 
 </br>**Параметры конфигурации**
 
-paths.root - корневая директория для всех путей.
-paths.yolo
-_
-model - путь к модели YOLO.
-paths.input
-_
-video - путь к входному видеофайлу.
-paths.output
-_
-video - путь для сохранения выходного видео.
-paths.output
-_
-annotations - путь для сохранения аннотаций.
-tracker - тип используемого трекера (поддерживаются `botsort` и `bytetrack`).
-save
-_
-video - флаг для сохранения выходного видео (`True` или `False`).
-save
-_
-annotations - флаг для сохранения аннотаций (`True` или `False`).
+</br>paths.root - корневая директория для всех путей.
+</br>paths.yolo
+</br>_
+</br>model - путь к модели YOLO.
+</br>paths.input
+</br>_
+</br>video - путь к входному видеофайлу.
+</br>paths.output
+</br>_
+</br>video - путь для сохранения выходного видео.
+</br>paths.output
+</br>_
+</br>annotations - путь для сохранения аннотаций.
+</br>tracker - тип используемого трекера (поддерживаются `botsort` и `bytetrack`).
+</br>save
+</br>_
+</br>video - флаг для сохранения выходного видео (`True` или `False`).
+</br>save
+</br>_
+</br>annotations - флаг для сохранения аннотаций (`True` или `False`).
 
 <h2 style="font-size: 20px;">Разработчики</h2>
 
