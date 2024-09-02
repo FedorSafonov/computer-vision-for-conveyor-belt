@@ -76,7 +76,7 @@ annotations - флаг для сохранения аннотаций (`True` и
   -- config.yaml
   -- track.py
   -- video_utils.py
-- presentation.pptx - cодержит презентацию проекта.
+- Presentation.pptx - cодержит презентацию проекта.
 - Videos - папка с видео для призентации
 - report.md - отчёт о проделанной работе
 - requirements.txt - необходимые модули
