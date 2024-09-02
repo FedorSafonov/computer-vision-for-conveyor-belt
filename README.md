@@ -27,20 +27,20 @@
 
 **Для запуска трекинга используйте следующую bash-команду:**
 ```
- </br>python track.py --config_filename config.yaml
+python track.py --config_filename config.yaml
 ```
 
 </br>**Пример файла конфигурации `config.yaml`:**
-```
- </br>paths:
- </br>root: Хакатон-Сортировка ТБО
- </br>yolo_model: Models/ultralytics/yolov10x_v2_4_best.pt
- </br>input_video: Videos/input.mp4
- </br>output_video: Videos/output.mp4
- </br>output_annotations: Datasets/annotations.json
- </br>tracker: bytetrack
- </br>save_video: False
- </br>save_annotations: True
+```python
+paths:
+root: Хакатон-Сортировка ТБО
+yolo_model: Models/ultralytics/yolov10x_v2_4_best.pt
+input_video: Videos/input.mp4
+output_video: Videos/output.mp4
+output_annotations: Datasets/annotations.json
+tracker: bytetrack
+save_video: False
+save_annotations: True
 ```
 
 </br>**Параметры конфигурации:**
