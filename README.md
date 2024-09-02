@@ -5,7 +5,7 @@
 
 
 * Полный отчёт по проекту можно посмотреть в [report.md](https://)
-* [Ссылка на презентацию](https://)
+* [Ссылка на презентацию](https://https://ithub.com/FedorSafonov/computer-vision-for-conveyor-belt/tree/presentation)
 
 <h2 style="font-size: 20px;">Разработчики</h2>
 
