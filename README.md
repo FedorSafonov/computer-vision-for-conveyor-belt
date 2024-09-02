@@ -6,6 +6,12 @@
 
 * [Ссылка на отчет](https://github.com/FedorSafonov/computer-vision-for-conveyor-belt/blob/report.md/report.md)
 * [Ссылка на презентацию](https://github.com/FedorSafonov/computer-vision-for-conveyor-belt/tree/presentation)
+* 
+<h2 style="font-size: 20px;">Структура репозитория</h2>
+
+`main` - Главная страница
+`code` - Содержит основной код для запуска и инференса модели
+`presentation` - Содержит презентацию проекта
 
 
 <h2 style="font-size: 20px;">Описание</h2>
