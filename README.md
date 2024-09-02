@@ -4,7 +4,7 @@
 
 
 
-* Полный отчёт по проекту можно посмотреть в [report.md](https://)
+* Полный отчёт по проекту можно посмотреть в [report.md](https://https://github.com/FedorSafonov/computer-vision-for-conveyor-belt/blob/report.md/report.md)
 * [Ссылка на презентацию](https://https://ithub.com/FedorSafonov/computer-vision-for-conveyor-belt/tree/presentation)
 
 <h2 style="font-size: 20px;">Разработчики</h2>
