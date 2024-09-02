@@ -27,8 +27,6 @@
 
 
 * **Оценка качества:**  Для оценки качества моделей были использованы следующие метрики:
-    * Precision
-    * Recall
     * MOTA (Multiple Object Tracking Accuracy)
     * MOTP (Multiple Object Tracking Precision)
 
